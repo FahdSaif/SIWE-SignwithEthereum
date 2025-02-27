@@ -28,12 +28,12 @@ This is a simple Proof of Concept (PoC) for signing in with Ethereum using MetaM
 
 
  **Two: Coding and setup** 
-[![YouTube Video](https://img.youtube.com/vi/nUtodJKmPUo/0.jpg)](https://youtu.be/nUtodJKmPUo)
+[![YouTube Video](https://img.youtube.com/vi/qj_wn2224U/0.jpg)](https://youtu.be/-qj_wn2224U)
 
 
 
 **Three: Debugging and corrections**
-[![YouTube Video](https://img.youtube.com/vi/nUtodJKmPUo/0.jpg)](https://youtu.be/nUtodJKmPUo)
+[![YouTube Video](https://img.youtube.com/vi/SN41F9aCKOk/0.jpg)](https://youtu.be/SN41F9aCKOk)
 
 
 
