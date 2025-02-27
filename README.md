@@ -19,7 +19,7 @@ This is a simple Proof of Concept (PoC) for signing in with Ethereum using MetaM
 
 
 **Final Output: The End Result**
-[![YouTube Video](https://img.youtube.com/vi/SN41F9aCKOk/0.jpg)](https://https://youtu.be/SN41F9aCKOk)
+[![YouTube Video](https://img.youtube.com/vi/nUtodJKmPUo/0.jpg)](https://youtu.be/nUtodJKmPUo)
 
 
 
@@ -28,12 +28,12 @@ This is a simple Proof of Concept (PoC) for signing in with Ethereum using MetaM
 
 
  **Two: Coding and setup** 
- [![YouTube Video](https://img.youtube.com/vi/84i5kKsgggA/0.jpg)](https://https://youtu.be/84i5kKsgggA)
+[![YouTube Video](https://img.youtube.com/vi/nUtodJKmPUo/0.jpg)](https://youtu.be/nUtodJKmPUo)
 
 
 
 **Three: Debugging and corrections**
-[![YouTube Video](https://img.youtube.com/vi/-qj_wn2224U/0.jpg)](https://https://youtu.be/-qj_wn2224U)
+[![YouTube Video](https://img.youtube.com/vi/nUtodJKmPUo/0.jpg)](https://youtu.be/nUtodJKmPUo)
 
 
 
