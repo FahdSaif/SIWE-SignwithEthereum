@@ -20,7 +20,7 @@ This is a simple Proof of Concept (PoC) for signing in with Ethereum using MetaM
 
 **Final Output: The End Result**
 
-[![YouTube Video](https://img.youtube.com/vi/nUtodJKmPUo/0.jpg)](https://youtu.be/nUtodJKmPUo)
+[![YouTube Video](https://img.youtube.com/vi/SN41F9aCKOk/0.jpg)](https://youtu.be/SN41F9aCKOk)
 
 
 
