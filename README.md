@@ -1,4 +1,4 @@
-# Sign In with Ethereum (PoC)
+# Sign In with Ethereum (Basic Version with 🎬 Video Walkthroughs below)
 
 This is a simple Proof of Concept (PoC) for signing in with Ethereum using MetaMask and Ethers.js. It allows users to connect their Ethereum wallet and sign a message for authentication.
 
