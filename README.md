@@ -18,6 +18,7 @@ This is a simple Proof of Concept (PoC) for signing in with Ethereum using MetaM
 
 ![Screen Shot 2025-02-28 at 3 34 24 pm](https://github.com/user-attachments/assets/34a21b06-4395-4cd8-bf32-81417e5951f9)
 
+**💡 Watch the Explained Video 🎬**  
 
 **Final Output: The End Result**
 ✨ See it in Action! ▶️  
