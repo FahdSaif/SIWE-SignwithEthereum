@@ -23,18 +23,7 @@ This is a simple Proof of Concept (PoC) for signing in with Ethereum using MetaM
 
 [![YouTube Video](https://img.youtube.com/vi/SN41F9aCKOk/0.jpg)](https://youtu.be/SN41F9aCKOk)
 
-<a href="https://youtu.be/SN41F9aCKOk" target="_blank">
-  <img src="https://img.youtube.com/vi/SN41F9aCKOk/0.jpg" alt="YouTube Video" style="position: relative; display: block;">
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-    <svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <circle cx="30" cy="30" r="29" fill="#FFFFFF" opacity="0.8"/>
-      <path d="M20 10L40 30L20 50V10Z" fill="#FF0000"/>
-    </svg>
-  </div>
-</a>
-
-
-
+[![YouTube Video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 **One: What we will use to Build it**  
